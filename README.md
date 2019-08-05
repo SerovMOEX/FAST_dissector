@@ -1,7 +1,7 @@
 # FAST_dissector
-Simple wireshark dissector allowing to find sequence gaps
+Simple wireshark dissector. Allows to find sequence gaps in FAST flow
  
- This dissector is useful only for problem detection. It analyzes MsgSeqNum, 
+ This dissector is useful only for problem detection. It analyzes only MsgSeqNum, 
  find losses and duplications.
 
  Results of analysis is placed in moexfast.diag
