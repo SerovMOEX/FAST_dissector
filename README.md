@@ -21,7 +21,7 @@ for i = 27101, 27199, 1 do
 end
 ```
 
-  Windows installation:
+# Windows installation:
   1. Check that the LUA is enabled. File /Proramm files/wireshark/init.lua should 
      contains the string "disable_lua = false"
   2. Place this file to folder /Proramm files/wireshark/plugins/<version number>/
