@@ -12,7 +12,7 @@ Simple wireshark dissector allowing to find sequence gaps
 
  To find problems you can use display filter "moexfast.diag > 0"
 
- The list of UDP port is defined in botton of this script. To add additional ports you 
+ The list of UDP port is defined in bottom of this script. To add additional ports you 
  can add to the bottom of this file something like:
 
 ```
